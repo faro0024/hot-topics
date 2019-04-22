@@ -2,7 +2,7 @@
 const navItems = document.querySelectorAll("header nav a");
 const container = document.querySelector(".container");
 
-let path = "http://localhost/mtm1526/final/hot-topics/content/home.html";
+let path = "https://faro0024.github.io/hot-topics/content/home.html";
 
 // handling clicking
 function handleClick(ev) {
